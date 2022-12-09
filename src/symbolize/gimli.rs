@@ -52,7 +52,7 @@ cfg_if::cfg_if! {
 
 mod stash;
 
-const MAPPINGS_CACHE_SIZE: usize = 4;
+const MAPPINGS_CACHE_SIZE: usize = 10;
 
 struct Mapping {
     // 'static lifetime is a lie to hack around lack of support for self-referential structs.
