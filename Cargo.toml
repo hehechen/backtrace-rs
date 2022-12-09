@@ -1,6 +1,6 @@
 [package]
 name = "pprof-backtrace"
-version = "0.3.61-0.0.1"
+version = "0.3.62"
 authors = ["The Rust Project Developers"]
 build = "build.rs"
 license = "MIT/Apache-2.0"
