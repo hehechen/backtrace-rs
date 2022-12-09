@@ -1,4 +1,4 @@
-# backtrace-rs
+# pprof-backtrace
 
 [Documentation](https://docs.rs/backtrace)
 
@@ -11,7 +11,7 @@ backtrace like libstd's panics.
 
 ```toml
 [dependencies]
-backtrace = "0.3"
+pprof-backtrace = "0.3"
 ```
 
 ## Usage
