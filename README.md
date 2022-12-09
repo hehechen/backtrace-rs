@@ -1,11 +1,11 @@
 # pprof-backtrace
 
-[Documentation](https://docs.rs/backtrace)
+[Documentation](https://docs.rs/pprof-backtrace/)
 
 A library for acquiring backtraces at runtime for Rust. This library aims to
 enhance the support of the standard library by providing a programmatic
 interface to work with, but it also supports simply easily printing the current
-backtrace like libstd's panics.
+backtrace like libstd's panics. Fork from https://github.com/rust-lang/backtrace-rs/tree/0.3.61.
 
 ## Install
 

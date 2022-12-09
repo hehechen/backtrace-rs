@@ -12,7 +12,7 @@
 //!
 //! ```toml
 //! [dependencies]
-//! backtrace = "0.3"
+//! pprof-backtrace = "0.3"
 //! ```
 //!
 //! Next:

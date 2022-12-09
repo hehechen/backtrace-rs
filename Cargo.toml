@@ -7,9 +7,9 @@ license = "MIT/Apache-2.0"
 readme = "README.md"
 repository = "https://github.com/hehechen/backtrace-rs"
 homepage = "https://github.com/hehechen/backtrace-rs"
-documentation = "https://docs.rs/backtrace"
+documentation = "https://docs.rs/pprof-backtrace/"
 description = """
-A library to acquire a stack trace (backtrace) at runtime in a Rust program. Fork from https://github.com/rust-lang/backtrace-rs.
+A library to acquire a stack trace (backtrace) at runtime in a Rust program. Fork from https://github.com/rust-lang/backtrace-rs/tree/0.3.61.
 """
 autoexamples = true
 autotests = true
