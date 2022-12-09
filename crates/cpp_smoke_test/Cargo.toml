@@ -8,4 +8,4 @@ build = "build.rs"
 cc = "1.0"
 
 [dependencies]
-backtrace = { path = "../..", features = ["cpp_demangle"] }
+pprof-backtrace = { path = "../..", features = ["cpp_demangle"] }
